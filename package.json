@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "name": "dost_uptime",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
