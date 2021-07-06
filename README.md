@@ -1,0 +1,2 @@
+# Uptimes
+UPTİME BOTU V12 DİR İYİ KULLANIMLAR
